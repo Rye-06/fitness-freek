@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://test-app:testapp123@cluster0.axhrw.mongodb.net/fitness-freek?retryWrites=true&w=majority",
+    "jwtToken": "321Fitn10dk1kD"
+}
